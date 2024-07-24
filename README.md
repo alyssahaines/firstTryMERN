@@ -1,2 +1,2 @@
-# firstTryMERN
-my first attempt!
+# projectMERN
+
